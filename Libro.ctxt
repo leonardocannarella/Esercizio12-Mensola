@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Libro
+comment0.text=\r\n\ Libro\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 28/11/2019)\r\n
+comment1.params=titolo\ autore\ numeroPagine
+comment1.target=Libro(java.lang.String,\ java.lang.String,\ int)
+comment2.params=libro
+comment2.target=Libro(Libro)
+comment3.params=
+comment3.target=java.lang.String\ getTitolo()
+comment4.params=
+comment4.target=java.lang.String\ getAutore()
+comment5.params=
+comment5.target=int\ getNumeroPagine()
+comment6.params=
+comment6.target=double\ prezzo()
+comment7.params=costo
+comment7.target=void\ setCostoPagina(double)
+numComments=8

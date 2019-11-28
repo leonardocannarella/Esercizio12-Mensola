@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Mensola
+comment0.text=\r\n\ Mensola\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 28/11/2019)\r\n
+comment1.params=
+comment1.target=Mensola()
+comment2.params=mensola
+comment2.target=Mensola(Mensola)
+comment3.params=libro\ posizione
+comment3.target=int\ setVolume(Libro,\ int)
+comment4.params=posizione
+comment4.target=Libro\ getVolume(int)
+comment5.params=posizione
+comment5.target=int\ rimuoviVolume(int)
+comment6.params=
+comment6.target=int\ getNumMaxVolumi()
+comment7.params=
+comment7.target=int\ getNumVolumi()
+numComments=8
